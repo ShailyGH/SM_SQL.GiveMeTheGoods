@@ -1,0 +1,1 @@
+SELECT * FROM StudentsDB.Students WHERE City LIKE '^[acsACS].*';
